@@ -7,6 +7,9 @@
     },
     "android": {
       "package": "com.aliquey7272.appcbm"
-    }
+    },
+    "plugins": [
+      "./withAndroidBuildFix.js"
+    ]
   }
 }
